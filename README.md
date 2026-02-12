@@ -1,2 +1,2 @@
 # first_hackathon
-My irst Hackathon
+My First Hackathon
